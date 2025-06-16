@@ -147,11 +147,13 @@ section {
   .home-content {
     margin-left: 0;
     text-align: center;
+    padding: 120px 120px 120px;
   }
 
   .home-image {
-    width: 130px;
-    height: 130px;
+    max-width: 100%;
+    height: auto;
+    display:block;
   }
 
   
